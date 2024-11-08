@@ -719,7 +719,7 @@ a {
     #resume {
         display: flex;
         gap: 20px;
-        align-items: center;
+        align-items: start;
     }
 
     #emailLinks {
