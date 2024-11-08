@@ -698,21 +698,24 @@ a {
     }
     #smallInfo {
         padding: 0px;
-        height: 20%;
+        height: 22%;
     }
-
+    #emailLinks img{
+        height: 20px;
+        width: 20px;
+    }
     #smallInfo h1 {
         font-size: 1.5rem;
     }
 
     #pfpContainer {
-        height: 160px;
+        height: 120px;
         align-items: start;
     }
 
     #pfp {
-        height: 160px;
-        width: 160px;
+        height: 120px;
+        width: 120px;
         border-radius: 50%;
     }
 
