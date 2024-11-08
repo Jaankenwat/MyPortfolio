@@ -681,6 +681,7 @@ a {
 
     /* page2 mobile  */
     #page2 {
+        height: fit-content;
         flex-direction: column-reverse;
     }
 
@@ -693,7 +694,6 @@ a {
         padding: 28px 36px;
         text-align: justify;
     }
-
     #smallInfo {
         padding: 0px;
         height: 20%;
