@@ -101,7 +101,6 @@ function page2animation(){
         scrollTrigger: {
             trigger: "#page2",
             scroller: "body",
-            scrub:2,
             end: "top 10%"
         }
     })
